@@ -260,7 +260,6 @@ img {
 /* наша команда */
 .our-team-section {
   display: flex;
-  width: 1600px;
   height: 648px;
   background-color: var(--filter-btn-background-color);
   padding-top: 94px;
